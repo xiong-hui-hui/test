@@ -5,3 +5,4 @@ cnc=enigma
 僵尸世界大战http://pan.baidu.com/share/link?shareid=1762052477&uk=3005290421
 测试push到底push 到哪
 再测实时
+测git branch --set-upstream-to
