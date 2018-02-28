@@ -8,3 +8,4 @@ cnc=enigma
 测git branch --set-upstream-to
 tonging
 测git branch --set-upstream-to远程名更改remotes/orgin/dev
+测试gitpushorigin分
