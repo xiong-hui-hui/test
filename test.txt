@@ -1,0 +1,5 @@
+ip=10.10.60.100
+port=8091
+cnc=enigma
+釜山行http://pan.baidu.com/share/link?shareid=2051623074&uk=3005290421
+僵尸世界大战http://pan.baidu.com/share/link?shareid=1762052477&uk=3005290421
