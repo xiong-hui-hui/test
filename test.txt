@@ -6,3 +6,4 @@ cnc=enigma
 测试push到底push 到哪
 再测实时
 测git branch --set-upstream-to
+tonging
